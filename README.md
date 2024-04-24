@@ -33,7 +33,7 @@
 
 ⚡️ Fun fact...
 
-    I don't think developpers never sleeping enough is a myth 😐
+    I don't think developers never sleeping enough is a myth 😐
 
     I will finish my crochet project I swear !
 
