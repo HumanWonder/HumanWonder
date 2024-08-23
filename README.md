@@ -21,21 +21,23 @@
 ## Other facts
 👩‍💻 I'm currently working on...
 
-    real-time-forum (01edu project)
+    smart-road (01-edu project)
+    Full-stack portfolio
 
 🧠 I'm currently learning...
 
-    Javascript/Golang/HTML
+       - Rust
+       - Vue.js/Node.js
     
-    -Dialogue between a xhr request and a database
-    -Cookies
-    -Websockets for real-time chat
+    -Complex algorithms in Rust
+    -Put a website online and attach links
+    -Constant battle with CSS
 
 ⚡️ Fun fact...
 
     I don't think developers never sleeping enough is a myth 😐
 
-    I will finish my crochet project I swear !
+    I will finish my crochet project I swear ! (I did !)
 
 ## 🔗 Links
 
