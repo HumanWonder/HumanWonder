@@ -1,5 +1,11 @@
 # Hi, I'm Axelle! 👋
 
+<p align="right">
+  <a href="https://github.com/HumanWonder">
+    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=HumanWonder">
+  </a>
+</p>
+
 🇫🇷 Actuellement en formation pour devenir développeuse full-stack chez Zone01 Rouen, je recherche une alternance dans ce domaine. 
 
 🇬🇧 Currently a full-stack developper in training in Zone01 Rouen, I'm looking for an apprenticeship.
