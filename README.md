@@ -16,12 +16,12 @@
 - HTML / CSS
 - ReactJS
 - SQLite
-
+- Rust
 
 ## Other facts
 👩‍💻 I'm currently working on...
 
-    smart-road (01-edu project)
+    multiplayer-fps (01-edu project)
     Full-stack portfolio
 
 🧠 I'm currently learning...
