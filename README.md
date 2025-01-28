@@ -23,17 +23,18 @@
 - ReactJS
 - SQLite
 - Rust
+- Python
 
 ## Other facts
 👩‍💻 I'm currently working on...
 
-    multiplayer-fps (01-edu project)
+    steganography
     Full-stack portfolio
 
 🧠 I'm currently learning...
 
-       - Rust
-       - Vue.js/Node.js
+       - Python => Cybersecurity
+       - ReactJS
     
     -Complex algorithms in Rust
     -Put a website online and attach links
