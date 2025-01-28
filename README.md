@@ -29,7 +29,7 @@
 👩‍💻 I'm currently working on...
 
     steganography
-    Full-stack portfolio
+    Full-stack portfolio => /About_me
 
 🧠 I'm currently learning...
 
